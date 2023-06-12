@@ -20,7 +20,6 @@ These can be found in `MongoDB` folder. You can use VS code extension or Studio3
 ### Conncect MYSQL with Python 
 Connecting MYSQL and Python has been demonstrated in the `DMA project.ipynb` file.
 
-### Final Project Report
-`DMA_project report_final.pdf `. You can read this file for more information about building the conceptual model, constructing a relational model of it, normalizing it, analytical usecase of the queries etc.
+
 
 Hope you like it
