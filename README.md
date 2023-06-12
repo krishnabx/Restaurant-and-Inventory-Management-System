@@ -5,7 +5,7 @@ This is the project for course IE 6700 Data Management for Analytics
 I have used MYSQL workbench for this project. Run the `Database.sql` file. It will create the schema for you
 
 ### SQL Queries
-6 Sql queries have been run on the following queries. All these queries can be found in the `SQL Queries` folder. Their analytical purpose has been specified in the `DMA_project report_final.pdf ` file.
+6 Sql queries have been run on the following queries. All these queries can be found in the `SQL Queries` folder. Their analytical purpose has been specified in the `DMA_project report.pdf ` file.
 
 ### MongoDB schema
 MongoDb clusters were manually created on the Atlas(cloud). Data was populated in these clusters using python. Pymongo was used to connect to cluster and data was generated logically and populated. A sample file is given in the `generator.py` file.<br>
