@@ -1,5 +1,4 @@
 # Restaurant-and-Inventory-Management-System
-This is the project for course IE 6700 Data Management for Analytics
 
 ### To create schema
 I have used MYSQL workbench for this project. Run the `Database.sql` file. It will create the schema for you
